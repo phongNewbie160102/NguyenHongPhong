@@ -1,23 +1,10 @@
-# NguyenHongPhong
+# Code Challenge - Nguyen Hong Phong
 
-code-challenge/
-│── problems/
-│   ├── vanilla-js/
-│   │   ├── index.html
-│   │   ├── script.js
-│   │   ├── styles.css
-│   │   ├── README.md
-│   ├── vuejs/
-│   │   ├── src/
-│   │   ├── public/
-│   │   ├── package.json
-│   │   ├── README.md
-│   ├── reactjs/
-│   │   ├── src/
-│   │   ├── public/
-│   │   ├── package.json
-│   │   ├── README.md
-│── README.md  (Tổng quan repo)
+## 🏗 Cấu trúc thư mục
+
+- `problems/vanilla-js/`: Bài toán 1 (Vanilla JavaScript)
+- `problems/vuejs/`: Bài toán 2 (Vue.js)
+- `problems/reactjs/`: Bài toán 3 (React.js)
 
 # PROBLEM 1: Giải thích các phương pháp
 ✅ Phương pháp 1: Công thức Gauss
