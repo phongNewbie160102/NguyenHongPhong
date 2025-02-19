@@ -36,17 +36,33 @@ Nếu N > 1, trả về N + sum(N - 1).
 
 ✨ Tính năng chính
 ✅ 💵 Nhập số tiền cần quy đổi.
+
 ✅ 🌍 Chọn quốc gia nguồn và quốc gia đích từ danh sách API.
+
 ✅ 🔄 Tự động lấy mã tiền tệ theo quốc gia.
+
 ✅ 📊 Hiển thị tỷ giá hối đoái và số tiền sau quy đổi.
+
 ✅ 📡 Cập nhật tỷ giá mới nhất theo thời gian thực.
 
 🛠 Công nghệ sử dụng
 🔹 Vue 3 (Composition API) – Quản lý trạng thái và xử lý logic.
+
 🔹 Ant Design Vue – Giao diện đẹp mắt, thân thiện người dùng.
+
 🔹 Axios – Kết nối API lấy dữ liệu tiền tệ.
+
 🔹 REST Countries API 🌎 – Lấy danh sách quốc gia.
+
 🔹 Exchange Rate API 💹 – Cập nhật tỷ giá hối đoái theo thời gian thực.
+
+## Hình minh họa
+![image](https://github.com/user-attachments/assets/9aa66c9e-22e4-46c4-b298-fada4125ada3)
+
+![image](https://github.com/user-attachments/assets/a6889a65-8e13-4fc5-8bbf-f639075e540e)
+
+![image](https://github.com/user-attachments/assets/d8efb19a-687e-4798-b938-23e68bca21d8)
+
 
 # PROBLEM 3: WalletPage Component
  📌 Giới thiệu
@@ -58,3 +74,6 @@ Nếu N > 1, trả về N + sum(N - 1).
 - 🔄 **Sắp xếp blockchain**: Ưu tiên hiển thị các blockchain quan trọng như `Osmosis`, `Ethereum`, v.v.
 - 🎨 **Hiển thị danh sách**: Danh sách số dư được hiển thị theo định dạng dễ đọc.
 - 🏗 **Tách component**: Sử dụng `WalletRow` để hiển thị từng dòng.
+
+## Hình minh họa
+![image](https://github.com/user-attachments/assets/4414a89b-65ef-4444-92fa-bde603a5210f)
