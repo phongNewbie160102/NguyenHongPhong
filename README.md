@@ -1,25 +1,23 @@
 # NguyenHongPhong
 
-📦 code-challenge
- ├── 📂 problem1-vanilla-js
- │   ├── index.html
- │   ├── script.js
- │   ├── styles.css
- │   ├── README.md
- │
- ├── 📂 problem2-vuejs
- │   ├── src/
- │   ├── public/
- │   ├── package.json
- │   ├── README.md
- │
- ├── 📂 problem3-reactjs
- │   ├── src/
- │   ├── public/
- │   ├── package.json
- │   ├── README.md
- │
- ├── README.md (Tổng quan repo)
+code-challenge/
+│── problems/
+│   ├── vanilla-js/
+│   │   ├── index.html
+│   │   ├── script.js
+│   │   ├── styles.css
+│   │   ├── README.md
+│   ├── vuejs/
+│   │   ├── src/
+│   │   ├── public/
+│   │   ├── package.json
+│   │   ├── README.md
+│   ├── reactjs/
+│   │   ├── src/
+│   │   ├── public/
+│   │   ├── package.json
+│   │   ├── README.md
+│── README.md  (Tổng quan repo)
 
 # PROBLEM 1: Giải thích các phương pháp
 ✅ Phương pháp 1: Công thức Gauss
