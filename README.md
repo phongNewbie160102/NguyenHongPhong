@@ -64,7 +64,3 @@ Exchange Rate API: Lấy tỷ giá hối đoái theo thời gian thực.
 - 🔄 **Sắp xếp blockchain**: Ưu tiên hiển thị các blockchain quan trọng như `Osmosis`, `Ethereum`, v.v.
 - 🎨 **Hiển thị danh sách**: Danh sách số dư được hiển thị theo định dạng dễ đọc.
 - 🏗 **Tách component**: Sử dụng `WalletRow` để hiển thị từng dòng.
-
-## 🏗 Cấu trúc Component
-
-
