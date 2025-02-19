@@ -6,6 +6,16 @@
 - `problem2/vuejs/`: Bài toán 2 (Vue.js)
 - `problem3/reactjs/`: Bài toán 3 (React.js)
 
+# Clone repo
+git clone https://github.com/phongNewbie160102/NguyenHongPhong.git
+cd NguyenHongPhong
+
+# Cài đặt dependencies
+npm install
+
+# Chạy ứng dụng
+npm run dev
+
 # PROBLEM 1: Giải thích các phương pháp
 ✅ Phương pháp 1: Công thức Gauss
 Sử dụng công thức:
