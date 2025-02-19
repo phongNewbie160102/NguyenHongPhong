@@ -8,6 +8,7 @@
 
 # Clone repo
 git clone https://github.com/phongNewbie160102/NguyenHongPhong.git
+
 cd NguyenHongPhong
 
 # Cài đặt dependencies
