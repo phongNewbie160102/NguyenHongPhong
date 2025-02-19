@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Problem1</title>
+    <link rel="stylesheet" href="./style.css">
+</head>
+
+<body>
+    <div class="container">
+        <h1>Ba cách tính tổng từ 1 đến N</h1>
+
+        <div class="input-container">
+            <span for="input_n" class="justify_center">Nhập giá trị n: </span>
+            <input type="number" id="input_n" min="1" placeholder="Nhập n">
+            <button onclick="calculateSums()">Tính tổng</button>
+        </div>
+
+        <div class="row">
+            <!-- Cột 1: Phương pháp 1 -->
+            <div class="col">
+                <h2>Phương pháp 1: Công thức Gauss</h2>
+                <p id="explanation_a">Công thức Gauss: tổng = n * (n + 1) / 2</p>
+                <p id="steps_a"></p>
+                <p id="result_a"></p>
+            </div>
+
+            <!-- Cột 2: Phương pháp 2 với Scroll -->
+            <div class="col scrollable">
+                <h2>Phương pháp 2: Sử dụng Vòng lặp</h2>
+                <p id="explanation_b">Duyệt qua từng số từ 1 đến n và cộng dồn vào biến sum.</p>
+                <p id="steps_b"></p>
+                <p id="result_b"></p>
+            </div>
+
+            <!-- Cột 3: Phương pháp 3 với Scroll -->
+            <div class="col scrollable">
+                <h2>Phương pháp 3: Sử dụng Đệ quy</h2>
+                <p id="explanation_c">Đệ quy gọi lại hàm cho đến khi n = 1.</p>
+                <p id="steps_c"></p>
+                <p id="result_c"></p>
+            </div>
+        </div>
+    </div>
+
+    <script src="./resolution.js"></script>
+</body>
+
+</html>

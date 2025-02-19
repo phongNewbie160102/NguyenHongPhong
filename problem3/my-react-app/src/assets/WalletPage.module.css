@@ -1,0 +1,18 @@
+/* src/assets/WalletPage.css */
+.container {
+    padding: 20px;
+    font-family: Arial, sans-serif;
+}
+
+.balanceItem {
+    background-color: #c7e3ff;
+    padding: 10px;
+    border-radius: 8px;
+    margin-bottom: 10px;
+    box-shadow: 2px 2px 5px rgba(211, 216, 255, 0.61);
+}
+
+.balanceItem p {
+    margin: 5px 0;
+    font-size: 14px;
+}
