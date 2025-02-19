@@ -2,9 +2,9 @@
 
 ## 🏗 Cấu trúc thư mục
 
-- `problems/vanilla-js/`: Bài toán 1 (Vanilla JavaScript)
-- `problems/vuejs/`: Bài toán 2 (Vue.js)
-- `problems/reactjs/`: Bài toán 3 (React.js)
+- `problem1/vanilla-js/`: Bài toán 1 (Vanilla JavaScript)
+- `problem2/vuejs/`: Bài toán 2 (Vue.js)
+- `problem3/reactjs/`: Bài toán 3 (React.js)
 
 # PROBLEM 1: Giải thích các phương pháp
 ✅ Phương pháp 1: Công thức Gauss
