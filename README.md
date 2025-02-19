@@ -25,21 +25,23 @@ Nếu N > 1, trả về N + sum(N - 1).
 Độ phức tạp O(N) nhưng tốn bộ nhớ vì gọi hàm liên tục.
 
 # PROBLEM 2: Ứng dụng Quy đổi Tiền tệ
-Mô tả
-Ứng dụng quy đổi tiền tệ cho phép người dùng nhập số tiền, chọn quốc gia nguồn và quốc gia đích để xem số tiền sau khi quy đổi theo tỷ giá hiện tại.
-Tính năng chính
-Nhập số tiền cần quy đổi.
-Chọn quốc gia nguồn và quốc gia đích với danh sách quốc gia từ API.
-Tự động lấy mã tiền tệ dựa vào quốc gia được chọn.
-Hiển thị tỷ giá quy đổi và số tiền sau khi chuyển đổi.
-Cập nhật thông tin tỷ giá mới nhất từ API.
-Công nghệ sử dụng
-Vue 3 (Composition API): Quản lý trạng thái và xử lý logic.
-Ant Design Vue: Tạo giao diện hiện đại và thân thiện với người dùng.
-Axios: Gửi yêu cầu API để lấy dữ liệu quốc gia và tỷ giá.
-REST Countries API: Lấy danh sách quốc gia.
-Exchange Rate API: Lấy tỷ giá hối đoái theo thời gian thực.
+🌍💱 Ứng dụng Quy đổi Tiền tệ
+📖 Mô tả
+Ứng dụng giúp bạn chuyển đổi tiền tệ dễ dàng giữa các quốc gia theo tỷ giá hối đoái mới nhất. 🚀
 
+✨ Tính năng chính
+✅ 💵 Nhập số tiền cần quy đổi.
+✅ 🌍 Chọn quốc gia nguồn và quốc gia đích từ danh sách API.
+✅ 🔄 Tự động lấy mã tiền tệ theo quốc gia.
+✅ 📊 Hiển thị tỷ giá hối đoái và số tiền sau quy đổi.
+✅ 📡 Cập nhật tỷ giá mới nhất theo thời gian thực.
+
+🛠 Công nghệ sử dụng
+🔹 Vue 3 (Composition API) – Quản lý trạng thái và xử lý logic.
+🔹 Ant Design Vue – Giao diện đẹp mắt, thân thiện người dùng.
+🔹 Axios – Kết nối API lấy dữ liệu tiền tệ.
+🔹 REST Countries API 🌎 – Lấy danh sách quốc gia.
+🔹 Exchange Rate API 💹 – Cập nhật tỷ giá hối đoái theo thời gian thực.
 
 # PROBLEM 3: WalletPage Component
  📌 Giới thiệu
