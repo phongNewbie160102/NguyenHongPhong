@@ -24,6 +24,11 @@ Nếu N = 1, trả về 1.
 Nếu N > 1, trả về N + sum(N - 1).
 Độ phức tạp O(N) nhưng tốn bộ nhớ vì gọi hàm liên tục.
 
+## Hình minh họa
+
+![image](https://github.com/user-attachments/assets/11deda1c-6aba-46a6-a0db-5b08be696565)
+
+
 # PROBLEM 2: Ứng dụng Quy đổi Tiền tệ
 🌍💱 Ứng dụng Quy đổi Tiền tệ
 📖 Mô tả
