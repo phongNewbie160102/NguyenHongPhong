@@ -12,11 +12,13 @@ Sử dụng công thức:
 S = N * (N + 1) / 2,
 Ưu điểm: Chạy nhanh nhất, độ phức tạp O(1).
 Nhược điểm: Không hiển thị được từng bước tính toán.
+
 ✅ Phương pháp 2: Dùng vòng lặp for
 Khởi tạo biến sum = 0.
 Duyệt từ 1 đến N, cộng dồn vào sum.
 Độ phức tạp O(N).
 Hiển thị được từng bước tính toán.
+
 ✅ Phương pháp 3: Dùng đệ quy
 Nếu N = 1, trả về 1.
 Nếu N > 1, trả về N + sum(N - 1).
